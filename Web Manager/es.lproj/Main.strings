@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Titulo de la celda"; ObjectID = "2n2-Ut-fBv"; */
+"2n2-Ut-fBv.text" = "Titulo de la celda";
+
+/* Class = "UILabel"; text = "Descripción de la celda"; ObjectID = "3Zk-UE-RoL"; */
+"3Zk-UE-RoL.text" = "Descripción de la celda";
+
+/* Class = "UINavigationItem"; title = "Web Handler"; ObjectID = "fqL-Rl-TeB"; */
+"fqL-Rl-TeB.title" = "Web Handler";
+
+/* Class = "UIViewController"; title = "Web manager"; ObjectID = "kjm-uY-iyB"; */
+"kjm-uY-iyB.title" = "Web manager";
+
+/* Class = "UIBarButtonItem"; title = "Tutorial"; ObjectID = "muF-X4-83S"; */
+"muF-X4-83S.title" = "Tutorial";
+
+/* Class = "UITabBarItem"; title = "Blockers"; ObjectID = "z9O-HL-6Se"; */
+"z9O-HL-6Se.title" = "Bloqueadores";

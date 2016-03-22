@@ -1,0 +1,1 @@
+[{"trigger":{"url-filter":"connect\\.facebook\\.net"},"action":{"type":"block"}},{"trigger":{"url-filter":"www\\.facebook\\.com"},"action":{"type":"block"}},{"trigger":{"url-filter":"static\\.ak\\.facebook\\.com"},"action":{"type":"block"}},{"trigger":{"url-filter":"mobile\\.facebook\\.com"},"action":{"type":"block"}}]

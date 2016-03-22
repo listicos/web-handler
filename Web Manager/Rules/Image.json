@@ -1,0 +1,75 @@
+ [
+  {
+  "action": {
+  "type": "block"
+  },
+  "trigger": {
+  "url-filter": "/.*\\.png"
+  }
+  },
+  {
+  "action": {
+  "type": "block"
+  },
+  "trigger": {
+  "url-filter": "/.*\\.tiff"
+  }
+  },
+  {
+  "action": {
+  "type": "block"
+  },
+  "trigger": {
+  "url-filter": "/.*\\.jpeg"
+  }
+  },
+  {
+  "action": {
+  "type": "block"
+  },
+  "trigger": {
+  "url-filter": "/.*\\.jpg"
+  }
+  },
+  {
+  "action": {
+  "type": "block"
+  },
+  "trigger": {
+  "url-filter": "/.*\\.bmp"
+  }
+  },
+  {
+  "action": {
+  "type": "block"
+  },
+  "trigger": {
+  "url-filter": "/.*\\.gif"
+  }
+  },
+  {
+  "action": {
+  "type": "block"
+  },
+  "trigger": {
+  "url-filter": "/.*\\.svg"
+  }
+  },
+  {
+  "action": {
+  "type": "block"
+  },
+  "trigger": {
+  "url-filter": "/.*\\.exif"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": ".*"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "img"
+  }
+  }
+  ]

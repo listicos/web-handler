@@ -1,0 +1,1 @@
+[{"trigger":{"url-filter":"platform\\.twitter\\.com"},"action":{"type":"block"}},{"trigger":{"url-filter":"cdn\\.api\\.twitter\\.com"},"action":{"type":"block"}},{"trigger":{"url-filter":"urls\\.api\\.twitter\\.com"},"action":{"type":"block"}},{"trigger":{"url-filter":"twitter\\.com"},"action":{"type":"block"}},{"trigger":{"url-filter":"twimg\\.com"},"action":{"type":"block"}}]
